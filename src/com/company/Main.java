@@ -1,7 +1,16 @@
 package com.company;
 
 import java.util.Scanner;
+public class Main
+{
 
+    public static void main(String[] args)
+    {
+        System.out.println("Ваша задача угадать число.");
+        int range = 10;
+        int namber = (int) (Math.random() * range);
+        while
+    }
 
 
 
